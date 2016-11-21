@@ -7,7 +7,7 @@
 //
 
 #import "MTStringParser.h"
-#import <SLSMarkupParser.h>
+#import "SLSMarkupParser.h"
 
 
 @interface MTStringParser ()
